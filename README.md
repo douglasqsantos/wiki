@@ -32,6 +32,7 @@ I will centralize my wiki in the repository, so if you find any errors in the ar
 ### Shell Script
 
 - [Bash Shell Script Básico](./shell-script/pt_br/bash-shell-script-basico.md)
+- [Expressões regulares](./shell-script/pt_br/expressoes-regulares.md)
 
 ## License
 

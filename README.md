@@ -27,6 +27,12 @@ I will centralize my wiki in the repository, so if you find any errors in the ar
 
 - [Creating a Docker Swarm Cluster](./docker/en_us/creating-docker-swarm-cluster.md)
 
+## Programming
+
+### Shell Script
+
+- [Bash Shell Script Básico](./shell-script/pt_br/bash-shell-script-basico.md)
+
 ## License
 
 - [GNU GENERAL PUBLIC LICENSE](./LICENSE)

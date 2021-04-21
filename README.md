@@ -27,6 +27,14 @@ I will centralize my wiki in the repository, so if you find any errors in the ar
 
 - [Creating a Docker Swarm Cluster](./docker/en_us/creating-docker-swarm-cluster.md)
 
+## OS
+
+### CentOS/Red Hat Enterprise 8
+
+- [Resetting the Root Password from the Boot Loader on CentOS/RedHat 8](./os/redhat/en_us/reset-root-password-on-redhat8.md)
+- [Initial Server Setup with CentOS 8](./os/redhat/en_us/initial-server-setup-on-centos8.md)
+- [Installing Semanage on CentOS 8](./os/redhat/en_us/installing-semanage-on-centos8.md)
+
 ## Programming
 
 ### Shell Script
